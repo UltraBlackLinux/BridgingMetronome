@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "bridgingmetronome",
+  "version": "${version}",
+  "name": "BridgingMetronome",
+  "description": "Helps you find the right rythm for fastbridging",
+  "authors": [
+    "UltraBlackLinux"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/bridgingmetronome/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me.ultrablacklinux.bridgingmetronome.client.BridgingMetronomeClient"
+    ],
+    "main": [
+      "me.ultrablacklinux.bridgingmetronome.BridgingMetronome"
+    ],
+    "modmenu": [
+      "me.ultrablacklinux.bridgingmetronome.config.modmenu.ModMenuEntry"
+    ]
+  },
+  "mixins": [
+    "bridgingMetronome.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.2",
+    "fabric": "*",
+    "minecraft": "*"
+  }
+}
