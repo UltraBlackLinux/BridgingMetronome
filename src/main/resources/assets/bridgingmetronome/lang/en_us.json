@@ -3,5 +3,10 @@
   "text.autoconfig.assets/bridgingmetronome.option.bridgingMetronome.sleepTime": "Delay",
   "text.autoconfig.assets/bridgingmetronome.option.bridgingMetronome.pitch": "Pitch",
   "text.autoconfig.assets/bridgingmetronome.option.bridgingMetronome.volume": "Volume",
-  "text.autoconfig.assets/bridgingmetronome.option.bridgingMetronome.stepSize": "Keybind Step Size"
+  "text.autoconfig.assets/bridgingmetronome.option.bridgingMetronome.stepSize": "Keybind Step Size",
+
+  "key.category.BridgingMetronome": "Bridging Metronome",
+  "key.BridgingMetronome.decrspeed": "Decrease Delay",
+  "key.BridgingMetronome.incrspeed": "Increase Delay",
+  "key.BridgingMetronome.toggle": "Toggle"
 }

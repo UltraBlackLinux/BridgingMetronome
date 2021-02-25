@@ -33,10 +33,10 @@ public class Config extends PartitioningSerializer.GlobalData {
         public int sleepTime = 500;
 
         @ConfigEntry.BoundedDiscrete(min = 0, max = 10)
-        public int pitch = 1;
+        public int pitch = 0;
 
         @ConfigEntry.BoundedDiscrete(min = 0, max = 10)
-        public int volume = 1;
+        public int volume = 10;
 
         @ConfigEntry.BoundedDiscrete(min = 1, max = 50)
         public int stepSize = 10;

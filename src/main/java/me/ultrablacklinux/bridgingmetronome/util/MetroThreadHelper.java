@@ -39,7 +39,9 @@ public class MetroThreadHelper {
 
     public void changeDelay(boolean decrease) {
         if (decrease) {
-            delay -= stepsz;
+            if (!(delay < 70)) {
+                delay -= stepsz;
+            }
             Config.get().bridgingMetronome.sleepTime = delay;
             AutoConfig.getConfigHolder(Config.class).save();
         }
