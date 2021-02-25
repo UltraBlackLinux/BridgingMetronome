@@ -5,7 +5,7 @@
 # BridgingMetronome
 Helps you find the right rythm for bridging
 
-#Features:
+# Features:
 - Changable click speed (ms)
 - Changable pitch
 - Changable volume
