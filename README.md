@@ -4,6 +4,7 @@
 
 # BridgingMetronome
 Helps you find the right rythm for bridging
+__This mod is compatible with any Version of Fabric!__
 
 # Features:
 - Changable click speed (ms)
