@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.assets/bridgingmetronome.title": "Config",
+  "text.autoconfig.assets/bridgingmetronome.option.bridgingMetronome.sleepTime": "Delay",
+  "text.autoconfig.assets/bridgingmetronome.option.bridgingMetronome.pitch": "Pitch",
+  "text.autoconfig.assets/bridgingmetronome.option.bridgingMetronome.volume": "Volume",
+  "text.autoconfig.assets/bridgingmetronome.option.bridgingMetronome.stepSize": "Keybind Step Size"
+}
