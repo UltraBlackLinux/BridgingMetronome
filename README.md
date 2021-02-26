@@ -3,7 +3,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 # BridgingMetronome
-Helps you find the right rythm for bridging
+Helps you find the right rhythm for bridging
 __This mod is compatible with any Version of Fabric!__
 
 # Features:
